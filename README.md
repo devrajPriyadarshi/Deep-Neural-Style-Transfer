@@ -13,15 +13,15 @@ Content Image:
 
 Style Image:
 <p align="left" width="100%">
-  <img align="left" src="https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Style/0.jpg" width="256" height="256">
-  <img align="right" src="https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Style/1.jpg" width="256" height="256">
+  <img src="https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Style/0.jpg" width="256" height="256">
+  <img src="https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Style/1.jpg" width="256" height="256">
 </p>
 
 
 Generated Image:
 <p align="left" width="100%">
-  <img align="left" src="https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Results/city0.jpg" width="256" height="256">
-  <img align="right" src="https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Results/people2.jpg" width="256" height="256">
+  <img src="https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Results/city0.jpg" width="256" height="256">
+  <img src="https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Results/people2.jpg" width="256" height="256">
 </p>
 
 ---
