@@ -4,7 +4,7 @@ Neural Transfer Style is one of the most amazing applications of Artificial Inte
 ---
 
 Content Image:
-<ing src="https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Content/city0.jpg" width="100" height="100">
+<img src="https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Content/city0.jpg" width="100" height="100">
 ![People](https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Content/people2.jpg)
 Style Image:
 ![Waves](https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Style/0.jpg)
