@@ -4,11 +4,16 @@ Neural Transfer Style is one of the most amazing applications of Artificial Inte
 ---
 
 Content Image:
-<img src="https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Content/city0.jpg" width="100" height="100">
-![People](https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Content/people2.jpg)
+
+<img src="https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Content/city0.jpg" width="512" height="512">
+<img src="https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Content/people2.jpg" width="512" height="512">
+
 Style Image:
-![Waves](https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Style/0.jpg)
-![Portrait](https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Style/1.jpg)
+<img src="https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Style/0.jpg" width="512" height="512">
+<img src="https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Style/1.jpg" width="512" height="512">
+
 Generated Image:
+<img src="https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Results/city0.jpg" width="512" height="512">
+<img src="https://github.com/devrajPriyadarshi/Deep-Neural-Style-Transfer/blob/main/Results/people2.jpg" width="512" height="512">
 
 Based on the original paper : [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
